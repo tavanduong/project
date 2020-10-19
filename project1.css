@@ -230,6 +230,7 @@ text-align: center;
     width: 100%;
     height: 600px;
     background-image: url(nhanxetkhachhang.png);
+
     background-size: cover;
     background-attachment: fixed;
     position: relative;
